@@ -2,7 +2,7 @@ package com.condition;
 
 import java.util.Scanner;
 
-public class CondionStatement {
+public class ConditionStatement {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

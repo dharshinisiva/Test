@@ -1,4 +1,4 @@
-package com.stringmethods;
+package com.stringmethods.copy;
 
 public class IndexOf {
 

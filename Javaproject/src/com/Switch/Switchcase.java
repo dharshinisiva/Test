@@ -7,14 +7,14 @@ public class Switchcase {
 		int numbers = 20;
 		switch (numbers) {
 		case 10:
-			System.out.println("1");
+			System.out.println("10");
 			break;
 
 		case 20:
 			System.out.println("2");
 			break;
-		case 3:
-			System.out.println("10");
+		case 30:
+			System.out.println("1");
 
 			break;
 		default:

@@ -8,6 +8,9 @@ public class Equals {
 		System.out.println("Enter the Name");
 		String name = s.nextLine();
 		if (name.equals("kirthi")) {
+			
+			
+			
 			System.out.println("The Given name is = " + name);
 		}
 
